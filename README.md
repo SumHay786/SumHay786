@@ -23,6 +23,13 @@ After completing my SQL certification, I decided to fully commit to a career wor
   * Performance tuning
   * Database design
   * SQL Queries using DDL & DML
+ 
+    ## 🎓 Certifications
+
+- **Women Techsters Bootcamp – Cohort 4.1**  
+  Issued by Tech4Dev  
+  📄 [View Certificate](PASTE_YOUR_CERTIFICATE_LINK_HERE)
+
 
 ---
 
@@ -55,6 +62,7 @@ If you’re a recruiter, developer, or data enthusiast — I’d love to connect
 * 🌐 Portfolio coming soon...
 
 ---
+
 
 > *“Start where you are. Use what you have. Do what you can.”* – Arthur Ashe
 
